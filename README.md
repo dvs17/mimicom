@@ -7,6 +7,12 @@ https://github.com/SecureAuthCorp/impacket/
 
 https://github.com/skelsec/pypykatz
 
+*Edit path to impacket WMIEXEC and SMBCLIENT in file*
+
+wmiexec = "/PATH/TO/wmiexec.py"
+
+smbclient = "/PATH/TO/smbclient.py"
+
 Usage:
 
 python mimicom.py -u USERNAME -p PASSWORD -d DOMAIN -t TARGET-IP
