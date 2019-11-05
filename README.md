@@ -1,5 +1,6 @@
 # mimicom
 Credits to https://github.com/SecureAuthCorp/impacket and https://github.com/skelsec/pypykatz
+
 Be sure to have the latest versions installed:
 https://github.com/SecureAuthCorp/impacket/
 https://github.com/skelsec/pypykatz
