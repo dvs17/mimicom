@@ -7,7 +7,7 @@ https://github.com/SecureAuthCorp/impacket/
 
 https://github.com/skelsec/pypykatz
 
-*Edit path to impacket WMIEXEC and SMBCLIENT in file*
+*Edit path to impacket WMIEXEC and SMBCLIENT in script*
 
 wmiexec = "/PATH/TO/wmiexec.py"
 
