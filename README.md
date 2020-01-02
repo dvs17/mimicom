@@ -7,8 +7,6 @@ https://github.com/SecureAuthCorp/impacket/
 
 https://github.com/skelsec/pypykatz
 
-and thanks to https://github.com/cleomenes88 for writing the json parser
-
 *Edit path to impacket WMIEXEC and SMBCLIENT in file*
 
 wmiexec = "/PATH/TO/wmiexec.py"
