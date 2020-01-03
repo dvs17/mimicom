@@ -18,4 +18,4 @@ Usage:
 python mimicom.py -u USERNAME -p PASSWORD -d DOMAIN -t TARGET-IP
 
 
-python mimicom.py -u USERNAME -p LM:HASH -d DOMAIN -t TARGET-IP
+python mimicom.py -u USERNAME -p LM:NTLM -d DOMAIN -t TARGET-IP
